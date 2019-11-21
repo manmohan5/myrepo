@@ -1,0 +1,27 @@
+ 1128  git init
+ 1129  git status
+ 1130  git status
+ 1131  git add a.txt 
+ 1132  git add b.txt
+ 1133  git commit -m "Add a.txt and b.txt"
+ 1134  git status
+ 1135  git log
+ 1136  git add c.txt 
+ 1137  git commit -m "c file"\
+ 1138  git commit -m "c file"
+ 1139  ls
+ 1140  git branch
+ 1141  cd git_sample_project/
+ 1142  git branch
+ 1143  git remote add  origin https://github.com/manmohan5/git_sample_project.git
+ 1144  git push origin master
+ 1145  git remote add  origin https://github.com/manmohan5/myrepo.git
+ 1146  git push origin master
+ 1147  git pull origin master
+ 1148  git clone https://github.com/manmohan5/myrepo.git
+ 1149  git add d.txt
+ 1150  cd myrepo/
+ 1151  git add d.txt 
+ 1152  git commit -m "d file"
+ 1153  git push origin master
+
